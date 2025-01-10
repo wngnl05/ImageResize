@@ -1,8 +1,7 @@
 ## Amazon 쇼핑몰을 보다가 같은 이미지를 다른 사이즈로 변환하여 사용하는것을 보고
-## url의 주소를 확인해 보니 같은 url이지만 뒤에 숫자(100, 300)에 따라 이미지 크기가 변환하는 것을 확인하고
-## 그와 같이 똑같은 리사이징용 API를 만들어보았습니다.
-[https://m.media-amazon.com/images/I/51ochqf4d7L._AC_US100_.jpg](https://m.media-amazon.com/images/I/51ochqf4d7L._AC_US100_.jpg)
-[https://m.media-amazon.com/images/I/51ochqf4d7L._AC_US300_.jpg](https://m.media-amazon.com/images/I/51ochqf4d7L._AC_US300_.jpg)
+## url의 주소를 확인해 보니 같은 url이지만 뒤에 숫자(100, 300)에 따라 이미지 크기가 변환하는 것을 확인하고 그와 같이 똑같은 리사이징용 API를 만들어보았습니다.
+### [https://m.media-amazon.com/images/I/51ochqf4d7L._AC_US100_.jpg](https://m.media-amazon.com/images/I/51ochqf4d7L._AC_US100_.jpg)
+### [https://m.media-amazon.com/images/I/51ochqf4d7L._AC_US300_.jpg](https://m.media-amazon.com/images/I/51ochqf4d7L._AC_US300_.jpg)
 
 <br>
 
