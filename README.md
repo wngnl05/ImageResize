@@ -1,9 +1,6 @@
-# 서버리스 환경에서 자동으로 이미지 크기를 조정하도록 람다를 이용하여 구성하였습니다.
 
-### 원본 이미지
-![image](https://github.com/user-attachments/assets/e22e5273-a563-41a9-ac9b-996e84f05d65)
-### 결과 300x300
-![image](https://github.com/user-attachments/assets/e4c3f879-e437-4583-9edc-3fa64e16a490)
+# Architecture
+![image](https://github.com/user-attachments/assets/5c105f33-c8c3-4071-9db7-afe3d7fd893f)
 
 <br>
 
@@ -28,4 +25,7 @@ npm i aws-sdk jimp qs
 
 <br>
 
-# CloudFront의 Domain으로 접속하여 /<Image 이름>.png 를 입력하고 뒤에 params(width, height)를 입력하면 이미지가 자동으로 변환됩니다.
+### 원본 이미지
+![image](https://github.com/user-attachments/assets/e22e5273-a563-41a9-ac9b-996e84f05d65)
+### 결과 300x300
+![image](https://github.com/user-attachments/assets/e4c3f879-e437-4583-9edc-3fa64e16a490)
